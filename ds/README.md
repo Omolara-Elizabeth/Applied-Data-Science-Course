@@ -1,4 +1,4 @@
-Summary of the Data Science Cource by IBM
+Summary of the Data Science Cource by IBM Technology
 
 Let us start with Chapter 1 which treats the general question what exactly data science is.
 
